@@ -2,7 +2,7 @@
 
 > This is a boilerplate project for starting React applications with Vite.
 
-https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
+Technologies used 👇:
 
 <span>
 <img alt="react badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -61,3 +61,12 @@ https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&l
 - [stylelint](https://www.npmjs.com/package/stylelint): ^15.9.0
 - [stylelint-config-standard-scss](https://www.npmjs.com/package/stylelint-config-standard-scss): ^10.0.0
 - [vite](https://www.npmjs.com/package/vite): ^4.3.9
+
+
+## Author
+
+👤 **Leslie Herrera**
+
+* Twitter: [@dereemii](https://twitter.com/dereemii)
+* Github: [@Dereemii](https://github.com/Dereemii)
+* LinkedIn: [@dereemii](https://linkedin.com/in/dereemii)
